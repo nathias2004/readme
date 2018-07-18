@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Contents
 
 - [Supported image operations](#supported-image-operations)
@@ -17,3 +18,6 @@
   - [Endpoints](#get-)
 - [Authors](#authors)
 - [License](#license)
+=======
+# readme
+>>>>>>> parent of 03d63f5... contents
